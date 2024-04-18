@@ -1,0 +1,7 @@
+C:\Users\Данила\source\repos\Danila_Melnik\Danila_Melnik\bin\Debug\Danila_Melnik.exe.config
+C:\Users\Данила\source\repos\Danila_Melnik\Danila_Melnik\bin\Debug\Danila_Melnik.exe
+C:\Users\Данила\source\repos\Danila_Melnik\Danila_Melnik\bin\Debug\Danila_Melnik.pdb
+C:\Users\Данила\source\repos\Danila_Melnik\Danila_Melnik\obj\Debug\Danila_Melnik.csproj.AssemblyReference.cache
+C:\Users\Данила\source\repos\Danila_Melnik\Danila_Melnik\obj\Debug\Danila_Melnik.csproj.CoreCompileInputs.cache
+C:\Users\Данила\source\repos\Danila_Melnik\Danila_Melnik\obj\Debug\Danila_Melnik.exe
+C:\Users\Данила\source\repos\Danila_Melnik\Danila_Melnik\obj\Debug\Danila_Melnik.pdb
