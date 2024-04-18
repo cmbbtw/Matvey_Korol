@@ -1,57 +1,57 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Documents\\GitHub\\Danila_Melnik\\",
+  "WorkspaceRootPath": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Desktop\\var12\\Matvey_Korol\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D5733D85-8DC2-444C-9074-3A0805B15E6E}|UnitTestProject1\\UnitTestProject1.csproj|C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Documents\\GitHub\\Danila_Melnik\\unittestproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5733D85-8DC2-444C-9074-3A0805B15E6E}|UnitTestProject1\\UnitTestProject1.csproj|solutionrelative:unittestproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F71301FC-5921-4F60-96C0-6D47F7C2FF97}|ClassLibrary1\\ClassLibrary1.csproj|c:\\users\\\u0434\u0430\u043D\u0438\u043B\u0430\\documents\\github\\danila_melnik\\classlibrary1\\var01_class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F71301FC-5921-4F60-96C0-6D47F7C2FF97}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\var01_class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F71301FC-5921-4F60-96C0-6D47F7C2FF97}|ClassLibrary1\\ClassLibrary1.csproj|C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Documents\\GitHub\\Danila_Melnik\\classlibrary1\\var02_theaudience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F71301FC-5921-4F60-96C0-6D47F7C2FF97}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\var02_theaudience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F71301FC-5921-4F60-96C0-6D47F7C2FF97}|ClassLibrary1\\ClassLibrary1.csproj|C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Documents\\GitHub\\Danila_Melnik\\classlibrary1\\var08_smena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F71301FC-5921-4F60-96C0-6D47F7C2FF97}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\var08_smena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F71301FC-5921-4F60-96C0-6D47F7C2FF97}|ClassLibrary1\\ClassLibrary1.csproj|C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Documents\\GitHub\\Danila_Melnik\\classlibrary1\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F71301FC-5921-4F60-96C0-6D47F7C2FF97}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F71301FC-5921-4F60-96C0-6D47F7C2FF97}|ClassLibrary1\\ClassLibrary1.csproj|C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Documents\\GitHub\\Danila_Melnik\\classlibrary1\\var09_employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F71301FC-5921-4F60-96C0-6D47F7C2FF97}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\var09_employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F71301FC-5921-4F60-96C0-6D47F7C2FF97}|ClassLibrary1\\ClassLibrary1.csproj|C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Documents\\GitHub\\Danila_Melnik\\classlibrary1\\var10_post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F71301FC-5921-4F60-96C0-6D47F7C2FF97}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\var10_post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F71301FC-5921-4F60-96C0-6D47F7C2FF97}|ClassLibrary1\\ClassLibrary1.csproj|C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Documents\\GitHub\\Danila_Melnik\\classlibrary1\\var11_department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F71301FC-5921-4F60-96C0-6D47F7C2FF97}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\var11_department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F71301FC-5921-4F60-96C0-6D47F7C2FF97}|ClassLibrary1\\ClassLibrary1.csproj|C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Documents\\GitHub\\Danila_Melnik\\classlibrary1\\var05_info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F71301FC-5921-4F60-96C0-6D47F7C2FF97}|ClassLibrary1\\ClassLibrary1.csproj|C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Desktop\\var12\\Matvey_Korol\\classlibrary1\\var05_info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F71301FC-5921-4F60-96C0-6D47F7C2FF97}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\var05_info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F71301FC-5921-4F60-96C0-6D47F7C2FF97}|ClassLibrary1\\ClassLibrary1.csproj|C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Documents\\GitHub\\Danila_Melnik\\classlibrary1\\var12_organisation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F71301FC-5921-4F60-96C0-6D47F7C2FF97}|ClassLibrary1\\ClassLibrary1.csproj|C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Desktop\\var12\\Matvey_Korol\\classlibrary1\\var01_class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F71301FC-5921-4F60-96C0-6D47F7C2FF97}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\var01_class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F71301FC-5921-4F60-96C0-6D47F7C2FF97}|ClassLibrary1\\ClassLibrary1.csproj|C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Desktop\\var12\\Matvey_Korol\\classlibrary1\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F71301FC-5921-4F60-96C0-6D47F7C2FF97}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5733D85-8DC2-444C-9074-3A0805B15E6E}|UnitTestProject1\\UnitTestProject1.csproj|c:\\users\\\u0434\u0430\u043D\u0438\u043B\u0430\\desktop\\var12\\matvey_korol\\unittestproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5733D85-8DC2-444C-9074-3A0805B15E6E}|UnitTestProject1\\UnitTestProject1.csproj|solutionrelative:unittestproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F71301FC-5921-4F60-96C0-6D47F7C2FF97}|ClassLibrary1\\ClassLibrary1.csproj|C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Desktop\\var12\\Matvey_Korol\\classlibrary1\\var02_theaudience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F71301FC-5921-4F60-96C0-6D47F7C2FF97}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\var02_theaudience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F71301FC-5921-4F60-96C0-6D47F7C2FF97}|ClassLibrary1\\ClassLibrary1.csproj|C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Desktop\\var12\\Matvey_Korol\\classlibrary1\\var08_smena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F71301FC-5921-4F60-96C0-6D47F7C2FF97}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\var08_smena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F71301FC-5921-4F60-96C0-6D47F7C2FF97}|ClassLibrary1\\ClassLibrary1.csproj|C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Desktop\\var12\\Matvey_Korol\\classlibrary1\\var09_employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F71301FC-5921-4F60-96C0-6D47F7C2FF97}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\var09_employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F71301FC-5921-4F60-96C0-6D47F7C2FF97}|ClassLibrary1\\ClassLibrary1.csproj|C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Desktop\\var12\\Matvey_Korol\\classlibrary1\\var10_post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F71301FC-5921-4F60-96C0-6D47F7C2FF97}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\var10_post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F71301FC-5921-4F60-96C0-6D47F7C2FF97}|ClassLibrary1\\ClassLibrary1.csproj|C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Desktop\\var12\\Matvey_Korol\\classlibrary1\\var11_department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F71301FC-5921-4F60-96C0-6D47F7C2FF97}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\var11_department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F71301FC-5921-4F60-96C0-6D47F7C2FF97}|ClassLibrary1\\ClassLibrary1.csproj|C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Desktop\\var12\\Matvey_Korol\\classlibrary1\\var12_organisation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F71301FC-5921-4F60-96C0-6D47F7C2FF97}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\var12_organisation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F71301FC-5921-4F60-96C0-6D47F7C2FF97}|ClassLibrary1\\ClassLibrary1.csproj|C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Documents\\GitHub\\Danila_Melnik\\classlibrary1\\var03_discipline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F71301FC-5921-4F60-96C0-6D47F7C2FF97}|ClassLibrary1\\ClassLibrary1.csproj|C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Desktop\\var12\\Matvey_Korol\\classlibrary1\\var03_discipline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F71301FC-5921-4F60-96C0-6D47F7C2FF97}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\var03_discipline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F71301FC-5921-4F60-96C0-6D47F7C2FF97}|ClassLibrary1\\ClassLibrary1.csproj|C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Documents\\GitHub\\Danila_Melnik\\classlibrary1\\var07_couple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F71301FC-5921-4F60-96C0-6D47F7C2FF97}|ClassLibrary1\\ClassLibrary1.csproj|C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Desktop\\var12\\Matvey_Korol\\classlibrary1\\var07_couple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F71301FC-5921-4F60-96C0-6D47F7C2FF97}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\var07_couple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{406A54A0-C055-4A28-981F-48034152C969}|Danila_Melnik\\Danila_Melnik.csproj|C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Documents\\GitHub\\Danila_Melnik\\danila_melnik\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{406A54A0-C055-4A28-981F-48034152C969}|Danila_Melnik\\Danila_Melnik.csproj|C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Desktop\\var12\\Matvey_Korol\\danila_melnik\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{406A54A0-C055-4A28-981F-48034152C969}|Danila_Melnik\\Danila_Melnik.csproj|solutionrelative:danila_melnik\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -62,41 +62,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Var10_Post.cs",
-              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Documents\\GitHub\\Danila_Melnik\\ClassLibrary1\\Var10_Post.cs",
-              "RelativeDocumentMoniker": "ClassLibrary1\\Var10_Post.cs",
-              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Documents\\GitHub\\Danila_Melnik\\ClassLibrary1\\Var10_Post.cs",
-              "RelativeToolTip": "ClassLibrary1\\Var10_Post.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T15:00:19.593Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Var05_Info.cs",
-              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Documents\\GitHub\\Danila_Melnik\\ClassLibrary1\\Var05_Info.cs",
-              "RelativeDocumentMoniker": "ClassLibrary1\\Var05_Info.cs",
-              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Documents\\GitHub\\Danila_Melnik\\ClassLibrary1\\Var05_Info.cs",
-              "RelativeToolTip": "ClassLibrary1\\Var05_Info.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T14:43:48.39Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Var05_Info.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Desktop\\var12\\Matvey_Korol\\ClassLibrary1\\Var05_Info.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Var05_Info.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Desktop\\var12\\Matvey_Korol\\ClassLibrary1\\Var05_Info.cs",
+              "RelativeToolTip": "ClassLibrary1\\Var05_Info.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAwwDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T14:43:48.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Documents\\GitHub\\Danila_Melnik\\UnitTestProject1\\UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Desktop\\var12\\Matvey_Korol\\UnitTestProject1\\UnitTest1.cs",
               "RelativeDocumentMoniker": "UnitTestProject1\\UnitTest1.cs",
-              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Documents\\GitHub\\Danila_Melnik\\UnitTestProject1\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Desktop\\var12\\Matvey_Korol\\UnitTestProject1\\UnitTest1.cs",
               "RelativeToolTip": "UnitTestProject1\\UnitTest1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAxAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-15T14:33:31.798Z",
               "EditorCaption": ""
@@ -105,35 +94,34 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Var01_Class.cs",
-              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Documents\\GitHub\\Danila_Melnik\\ClassLibrary1\\Var01_Class.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Desktop\\var12\\Matvey_Korol\\ClassLibrary1\\Var01_Class.cs",
               "RelativeDocumentMoniker": "ClassLibrary1\\Var01_Class.cs",
-              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Documents\\GitHub\\Danila_Melnik\\ClassLibrary1\\Var01_Class.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Desktop\\var12\\Matvey_Korol\\ClassLibrary1\\Var01_Class.cs",
               "RelativeToolTip": "ClassLibrary1\\Var01_Class.cs",
-              "ViewState": "AQIAADMAAAAAAAAAAAAAAEYAAAANAAAA",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAEQAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-15T14:21:30.795Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Var02_TheAudience.cs",
-              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Documents\\GitHub\\Danila_Melnik\\ClassLibrary1\\Var02_TheAudience.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Desktop\\var12\\Matvey_Korol\\ClassLibrary1\\Var02_TheAudience.cs",
               "RelativeDocumentMoniker": "ClassLibrary1\\Var02_TheAudience.cs",
-              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Documents\\GitHub\\Danila_Melnik\\ClassLibrary1\\Var02_TheAudience.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Desktop\\var12\\Matvey_Korol\\ClassLibrary1\\Var02_TheAudience.cs",
               "RelativeToolTip": "ClassLibrary1\\Var02_TheAudience.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAABsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T14:25:30.397Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-15T14:25:30.397Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Var11_Department.cs",
-              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Documents\\GitHub\\Danila_Melnik\\ClassLibrary1\\Var11_Department.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Desktop\\var12\\Matvey_Korol\\ClassLibrary1\\Var11_Department.cs",
               "RelativeDocumentMoniker": "ClassLibrary1\\Var11_Department.cs",
-              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Documents\\GitHub\\Danila_Melnik\\ClassLibrary1\\Var11_Department.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Desktop\\var12\\Matvey_Korol\\ClassLibrary1\\Var11_Department.cs",
               "RelativeToolTip": "ClassLibrary1\\Var11_Department.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -141,11 +129,36 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Desktop\\var12\\Matvey_Korol\\ClassLibrary1\\Employee.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Employee.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Desktop\\var12\\Matvey_Korol\\ClassLibrary1\\Employee.cs",
+              "RelativeToolTip": "ClassLibrary1\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T15:33:55.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Var10_Post.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Desktop\\var12\\Matvey_Korol\\ClassLibrary1\\Var10_Post.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Var10_Post.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Desktop\\var12\\Matvey_Korol\\ClassLibrary1\\Var10_Post.cs",
+              "RelativeToolTip": "ClassLibrary1\\Var10_Post.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T15:00:19.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Var09_Employees.cs",
-              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Documents\\GitHub\\Danila_Melnik\\ClassLibrary1\\Var09_Employees.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Desktop\\var12\\Matvey_Korol\\ClassLibrary1\\Var09_Employees.cs",
               "RelativeDocumentMoniker": "ClassLibrary1\\Var09_Employees.cs",
-              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Documents\\GitHub\\Danila_Melnik\\ClassLibrary1\\Var09_Employees.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Desktop\\var12\\Matvey_Korol\\ClassLibrary1\\Var09_Employees.cs",
               "RelativeToolTip": "ClassLibrary1\\Var09_Employees.cs",
               "ViewState": "AQIAABYAAAAAAAAAAAAWwCQAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -153,11 +166,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Var08_Smena.cs",
-              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Documents\\GitHub\\Danila_Melnik\\ClassLibrary1\\Var08_Smena.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Desktop\\var12\\Matvey_Korol\\ClassLibrary1\\Var08_Smena.cs",
               "RelativeDocumentMoniker": "ClassLibrary1\\Var08_Smena.cs",
-              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Documents\\GitHub\\Danila_Melnik\\ClassLibrary1\\Var08_Smena.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Desktop\\var12\\Matvey_Korol\\ClassLibrary1\\Var08_Smena.cs",
               "RelativeToolTip": "ClassLibrary1\\Var08_Smena.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -165,23 +178,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Documents\\GitHub\\Danila_Melnik\\ClassLibrary1\\Employee.cs",
-              "RelativeDocumentMoniker": "ClassLibrary1\\Employee.cs",
-              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Documents\\GitHub\\Danila_Melnik\\ClassLibrary1\\Employee.cs",
-              "RelativeToolTip": "ClassLibrary1\\Employee.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T15:33:55.003Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 9,
               "Title": "Var12_Organisation.cs",
-              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Documents\\GitHub\\Danila_Melnik\\ClassLibrary1\\Var12_Organisation.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Desktop\\var12\\Matvey_Korol\\ClassLibrary1\\Var12_Organisation.cs",
               "RelativeDocumentMoniker": "ClassLibrary1\\Var12_Organisation.cs",
-              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Documents\\GitHub\\Danila_Melnik\\ClassLibrary1\\Var12_Organisation.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Desktop\\var12\\Matvey_Korol\\ClassLibrary1\\Var12_Organisation.cs",
               "RelativeToolTip": "ClassLibrary1\\Var12_Organisation.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -191,9 +192,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "Var03_Discipline.cs",
-              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Documents\\GitHub\\Danila_Melnik\\ClassLibrary1\\Var03_Discipline.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Desktop\\var12\\Matvey_Korol\\ClassLibrary1\\Var03_Discipline.cs",
               "RelativeDocumentMoniker": "ClassLibrary1\\Var03_Discipline.cs",
-              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Documents\\GitHub\\Danila_Melnik\\ClassLibrary1\\Var03_Discipline.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Desktop\\var12\\Matvey_Korol\\ClassLibrary1\\Var03_Discipline.cs",
               "RelativeToolTip": "ClassLibrary1\\Var03_Discipline.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -203,9 +204,9 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "Var07_Couple.cs",
-              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Documents\\GitHub\\Danila_Melnik\\ClassLibrary1\\Var07_Couple.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Desktop\\var12\\Matvey_Korol\\ClassLibrary1\\Var07_Couple.cs",
               "RelativeDocumentMoniker": "ClassLibrary1\\Var07_Couple.cs",
-              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Documents\\GitHub\\Danila_Melnik\\ClassLibrary1\\Var07_Couple.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Desktop\\var12\\Matvey_Korol\\ClassLibrary1\\Var07_Couple.cs",
               "RelativeToolTip": "ClassLibrary1\\Var07_Couple.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAAAAAB8AAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -215,9 +216,9 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Documents\\GitHub\\Danila_Melnik\\Danila_Melnik\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Desktop\\var12\\Matvey_Korol\\Danila_Melnik\\Program.cs",
               "RelativeDocumentMoniker": "Danila_Melnik\\Program.cs",
-              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Documents\\GitHub\\Danila_Melnik\\Danila_Melnik\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Desktop\\var12\\Matvey_Korol\\Danila_Melnik\\Program.cs",
               "RelativeToolTip": "Danila_Melnik\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

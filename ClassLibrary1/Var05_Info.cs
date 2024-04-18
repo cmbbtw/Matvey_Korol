@@ -47,5 +47,18 @@ namespace ClassLibrary1
             get { return group.ToString(); }
             set { group = Var04_Group.ToString(value); }
         }
+
+        public Var05_Info()
+        {
+
+        }
+
+        public double Div(double n1, double n2)
+        {
+            // Проверка деления на "0"
+            if (n2 == 0.0D)
+                throw new DivideByZeroException();
+            return n1 / n2;
+        }
     }
 }

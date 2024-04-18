@@ -10,7 +10,7 @@ namespace UnitTestProject1
         [TestMethod]
         public void TestMethod1()
         {
-            var calc = new Var01_Class();
+            var calc = new Var05_Info();
             double arg1 = 4;
             double arg2 = 0;
             // act
